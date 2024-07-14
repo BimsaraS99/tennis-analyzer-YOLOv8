@@ -57,6 +57,10 @@ python main.py
 - opencv-python==4.5.3.56
 - ultralytics==8.0.0
 
+## Used Datasets
+- Tennis bal detection : https://universe.roboflow.com/tennisball-3eqxr/tennis-ball-detection-qaxae/dataset/1
+- Tennis Court detection : https://universe.roboflow.com/tennistracker-dogbm/tennis-court-detection
+
 ## Contributing
 Contributions to improve the Tennis Match Analyzer are welcome. Please feel free to submit a Pull Request.
 
